@@ -1,0 +1,7 @@
+tgt_test <unzip contra_test.csv.zip first and this should be the dir to the contra_test.csv>
+mode_lst 1,1,1
+best_chk_path <dir to the tested checkpoint>
+ch_to_idx_dict_path <dir to the ch_to_idx_dict_structure.pickle>
+idx_to_ch_dict_path <dir to the idx_to_ch_dict_structure.pickle>
+test_output_path <path to .txt file that saves the accuracy count>
+log_path <path to .log that record the evaluation progress>
