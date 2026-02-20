@@ -1,0 +1,6 @@
+spec_train <the dir where train.csv is stored>
+spec_val <the dir where val.csv is stored>
+loss_path <path to save the log of the loss values>
+mode_lst 1,1,1 #this will always be 1,1,1
+best_chk_path <path to save the checkpoint of the lowest validation loss>
+end_chk_path <path to save the ending checkpoint>
