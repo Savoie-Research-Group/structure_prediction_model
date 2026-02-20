@@ -18,3 +18,6 @@ val.zip -> preprocessed validation data
 test.zip -> preprocessed test data
 raw_spec1(2,3).zip -> preprocessed MS (m/z binned, intensity normalized), IR (cm-1 binned, intensity normalized), H-NMR (both shift and intensity binned). Please check binned and normalization details in our paper.
 
+Vocabulary:
+Include two .pickle files (ch_to_idx_dict_structure.pickle & idx_to_ch_dict_structure.pickle) that can convert character to idx and idx to character, will need those two during the evaluation step. 
+
