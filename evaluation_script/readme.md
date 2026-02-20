@@ -7,5 +7,6 @@ sys.path.append('/depot/bsavoie/data/Tianfan/structure_paper/train_script') -> t
 
 1. Regular testing
 2. Test model performance when contradictory results are inputted
+
    python test_contra.py -c config_contra.txt
-3. 
+4. 
