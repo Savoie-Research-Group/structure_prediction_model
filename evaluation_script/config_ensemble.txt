@@ -1,0 +1,11 @@
+tgt_test <dir to the test.csv>
+mode_lst 1,1,1
+best_chk_path1 <dir to the tested checkpoint1>
+best_chk_path2 <dir to the tested checkpoint2>
+best_chk_path3 <dir to the tested checkpoint3>
+best_chk_path4 <dir to the tested checkpoint4>
+best_chk_path5 <dir to the tested checkpoint5>
+ch_to_idx_dict_path <dir to the ch_to_idx_dict_structure.pickle>
+idx_to_ch_dict_path <dir to the idx_to_ch_dict_structure.pickle>
+test_output_path <path to .txt file that saves the accuracy count>
+log_path <path to .log that record the evaluation progress>
